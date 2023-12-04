@@ -30,5 +30,4 @@ for i in food_list:
     print()
     total_price += i.calculate_price_RT()
 
-print()
 print(f"Total cost: ${total_price}")
